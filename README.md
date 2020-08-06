@@ -21,10 +21,11 @@ priceを扱いやすい大きさにするため全てのデータをその中の
 |learning rate|weight decay|MAE|RMSE|MER|R2スコア|
 |:--|:--|:--|:--|:--|:--|
 |0.1|10^(-8)|135447.69|241691.66|24%|0.6078636|
+<br>
 訓練の様子は以下のようになった。
 ![model](https://github.com/Jumpei-Fujita/kadai2/blob/master/glaph.png)
 
 ## コードの実行手順
-ipynbファイルで書かれているので上から実行していく
+ipynbファイルで書かれているので上から順に実行していく
 
 
