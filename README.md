@@ -10,7 +10,7 @@ priceを扱いやすい大きさにするため全てのデータをその中の
 今回はscikit-learnを用いて訓練データ、検証用データ、テスト用データをそれぞれ6:2:2に分割する
 
 ## モデル構築
-![model](https://github.com/Jumpei-Fujita/kadai2/blob/master/dentsu_neuralnet.png)
+![model](https://github.com/Jumpei-Fujita/kadai2/blob/master/dentsu_neuralnet.png)<br>
 今回はニューラルネットワークにより学習をこなうことで回帰を行った。
 ニューロン数は上の画像の通りである。
 出力と訓練データのラベルのMSEを最小にするように学習パラメータの更新を行った。
