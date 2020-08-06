@@ -25,6 +25,6 @@ priceを扱いやすい大きさにするため全てのデータをその中の
 ![model](https://github.com/Jumpei-Fujita/kadai2/blob/master/glaph.png)
 
 ## コードの実行手順
-ipynbファイルで書かれているので上から順に実行していく
+price.ipynbを上から順に実行していく
 
 
