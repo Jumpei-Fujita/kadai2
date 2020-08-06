@@ -10,4 +10,4 @@ priceを扱いやすい大きさにするため全てのデータをその中の
 今回はscikit-learnを用いて訓練データ、検証用データ、テスト用データをそれぞれ6:2:2に分割する
 
 ## モデル構築
-
+![model](https://github.com/Jumpei-Fujita/kadai2/blob/master/dentsu_neuralnet.png)
